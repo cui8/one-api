@@ -55,7 +55,7 @@ let headerButtons = [
     name: '文档',
     to: '/docs',
     icon: 'graduation'
-  }
+  },
   {
     name: '关于',
     to: '/about',
